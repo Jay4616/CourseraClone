@@ -1590,3 +1590,15 @@ section {
   color: #fff;
   text-decoration: none;
 }
+.paycolor{
+  background-color: #7430e0;
+  width:400px;
+  text-decoration:wavy;
+}
+#colorpay{
+  color: white;
+}
+.paycolor:hover{
+  text-decoration:dashed;
+
+}
